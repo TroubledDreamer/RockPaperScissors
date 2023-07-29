@@ -1,0 +1,40 @@
+img {
+    height: 250px;
+    width: 250px;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.imgs {
+ padding-top: 05;
+ padding-bottom: 2%;
+}
+
+body {
+    background-color: #858585;
+    font-family: 'Press Start 2P', cursive;
+}
+
+button {
+    height: 40px;
+    width: 100px;
+    border-radius: 4px;
+    border: none;
+    margin-left: .1%;
+    margin-right: .1%;
+    background-color:  #92a1b9;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+
+
+}
+
+button:hover {
+    background-color: #657392;
+  }
+
+h1 {
+    font-size: 500%;
+    color:white;
+    padding-top: -15%;
+}
